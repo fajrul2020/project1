@@ -2,7 +2,7 @@ public class HelloWorld {
   public static void main(){
     System.out.println("Hello World");
     
-    
-    Syestem.out.println("AYO NGODING");
+    System.out.println("NGODING BIKIN PUSING");
+    System.out.println("AYO NGODING");
     }
 }
