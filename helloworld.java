@@ -9,5 +9,7 @@ public class HelloWorld {
     EDITAN TERBARU 
       System.out.println("terus jadi orang susah Ayo Menyerah");
    
+    System.out.println("AWWWWW");
+    System.out.println("Ayo Belajar");
     }
 }
